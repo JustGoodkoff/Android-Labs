@@ -36,7 +36,7 @@
             android:id="@+id/song_author"
             android:layout_width="184dp"
             android:layout_height="20dp"
-            android:fontFamily="robot"
+            android:fontFamily="@font/roboto"
             android:text="@string/kali_uchis"
             android:textColor="#C3C7C7"
             android:textSize="14sp" />
